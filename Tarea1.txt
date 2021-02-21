@@ -1,2 +1,7 @@
 ¿Por qué es importante crear repositorios en un proyecto de software?
 Los repositorios alcanzan gran importancia, pues permiten enriquecer la visión de los autores en cuanto a difundir y preservar datos de sus investigaciones y garantizar así el acceso a largo plazo.
+
+
+Describa 2 ventajas de crear repositorios en un proyecto de software.
+• Permite flujos de trabajo muy flexibles.
+• Unidad: Todos los documentos están almacenados en una misma base de datos, es más fácil su recuperación.
